@@ -1,0 +1,5 @@
+helm-guestbook:
+  service:
+    type: LoadBalancer
+
+  env: prod

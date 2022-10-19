@@ -1,0 +1,6 @@
+dependencies:
+- name: helm-guestbook
+  repository: http://192.168.1.6/chartrepo/gitops
+  version: 1.0.0
+digest: sha256:eb5e06e3eefed69c75642df0ada10e772fbfc8c87a8e569db91feff61414810b
+generated: "2022-10-19T15:16:41.592966+03:00"

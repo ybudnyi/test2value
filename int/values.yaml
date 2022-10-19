@@ -1,0 +1,5 @@
+helm-guestbook:
+  service:
+    type: ClusterIP
+
+  env: int
