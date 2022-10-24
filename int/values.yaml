@@ -2,4 +2,4 @@ helm-guestbook:
   service:
     type: LoadBalancer
 
-  env: int
+  env: int-01
