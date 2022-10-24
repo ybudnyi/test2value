@@ -1,5 +1,5 @@
 helm-guestbook:
   service:
-    type: ClusterIP
+    type: LoadBalancer
 
   env: int
