@@ -2,4 +2,5 @@ helm-guestbook:
   service:
     type: ClusterIP
 
-  env: int-01
+  env: int-01pwd
+  replicaCount: 5

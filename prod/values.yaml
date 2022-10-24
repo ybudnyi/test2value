@@ -3,3 +3,4 @@ helm-guestbook:
     type: LoadBalancer
 
   env: prod
+  replicaCount: 10
