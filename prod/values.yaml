@@ -4,4 +4,4 @@ helm-guestbook:
 
   env: prod
 
-  replicaCount: 2
+  replicaCount: 3
